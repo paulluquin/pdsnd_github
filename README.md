@@ -9,7 +9,7 @@ This Project is to show proper use of GIT and Credits
 functionality
 
 ### Files used
-Include the files used
+Explore_bikeshare-data.r 
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
