@@ -1,4 +1,5 @@
 # THIS CODE WAS USED TO CREATE PROJECT #2
+# csv files downloaded from Udacity website
 
 ny = read.csv('new_york_city.csv')
 wash = read.csv('washington.csv')
@@ -50,11 +51,7 @@ ggplot() +
 
 
 summary(wash$Trip.Duration)
-
-
-
 summary(ny$Trip.Duration)
-
 summary(chi$Trip.Duration)
 
 #Washigton definitely has higher volume of bikeshare data when compared to New York and Chicago.

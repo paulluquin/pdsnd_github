@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+May 12 2020
 
 ### Project Title
-Replace the Project Title
+Git Project
 
 ### Description
-Describe what your project is about and what it does
+This Project is to show proper use of GIT and Credits
+functionality
 
 ### Files used
-Include the files used
+Explore_bikeshare-data.r
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Data provided by Udacity for the purpose of the course.
+Repo was forked from https://github.com/udacity/pdsnd_github
