@@ -9,7 +9,8 @@ This Project is to show proper use of GIT and Credits
 functionality
 
 ### Files used
-Explore_bikeshare-data.r 
+Explore_bikeshare-data.r
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Data provided by Udacity for the purpose of the course.
+Repo was forked from https://github.com/udacity/pdsnd_github
