@@ -140,7 +140,7 @@ DurationByTimeYear <- function (DataSubset, CityName, DotColor, LineColor)
         ggtitle(CityName, " Trip Duration by time of year")
     }
 
-DurationByTimeYear (New_NY, "New York", 'orange', '#CC8400')
+DurationByTimeYear (New_NY, "New York", 'red', '#CC8400')
 
 DurationByTimeYear (New_Wash, "Washington", 'blue', '#0000B3')
 
