@@ -144,4 +144,4 @@ DurationByTimeYear (New_Chi, "Chicago", 'light green', '#00B300')
 
 # The Bike Share Data shows that as the weather gets warmer, the number of use goes up as well as the duration.
 
-system('python -m nbconvert Explore_bikeshare_data.ipynb')
+#system('python -m nbconvert Explore_bikeshare_data.ipynb')
