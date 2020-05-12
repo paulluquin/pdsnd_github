@@ -51,11 +51,7 @@ ggplot() +
 
 
 summary(wash$Trip.Duration)
-
-
-
 summary(ny$Trip.Duration)
-
 summary(chi$Trip.Duration)
 
 #Washigton definitely has higher volume of bikeshare data when compared to New York and Chicago.
