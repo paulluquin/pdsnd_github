@@ -114,12 +114,11 @@ TripDurationGender (chi, "Chicago")
 library(scales)
 
 New_NY = ny
-New_NY$Month_Yr <- format(as.Date(ny$Start.Time), "%Y-%m")
-
 New_Chi = chi
-New_Chi$Month_Yr <- format(as.Date(chi$Start.Time), "%Y-%m")
-
 New_Wash = wash
+
+New_NY$Month_Yr <- format(as.Date(ny$Start.Time), "%Y-%m")
+New_Chi$Month_Yr <- format(as.Date(chi$Start.Time), "%Y-%m")
 New_Wash$Month_Yr <- format(as.Date(wash$Start.Time), "%Y-%m")
 
 
